@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "examautomata"
+  "defaultProject": "examautomata",
+  "cli": {
+    "analytics": "1a62722d-0f20-4690-9b0b-a09bab551817"
+  }
 }
